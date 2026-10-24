@@ -2,6 +2,8 @@
 
 在 macOS 上为 Chrome 创建一个独立启动器，启动时附带已验证可恢复 Gemini 按钮的 Chromium 参数。项目依据实际测试：通过启动器运行后，Chrome 右上角出现 Gemini 按钮，并可正常对话。此项目是面向个人排查和使用的非官方方法，不代表 Google 提供或支持此功能。
 
+> English version：[README.en.md](./README.en.md)
+
 ## 快速安装
 
 1. 从 GitHub 下载项目 ZIP 并解压，或克隆仓库。
